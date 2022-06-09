@@ -1,0 +1,9 @@
+Triadin tunnistaminen perustuu siihen kuinka monen askeleen päässä kaksi nuottia ovat juuri-nuotista.
+
+Molli = 3 askelta ja 7 askelta
+Duuri 4 askelta ja 7 askelta 
+
+sharp = s, eli D sharp kirjoitetaan Ds
+flat = f, eli A flat kirjoitetaan Af
+
+Nuotit isolla ja flat/sharp pienellä!

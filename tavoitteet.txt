@@ -1,0 +1,15 @@
+
+Tavoitteet.
+
+Muuta etsi_triad-funktiota siten että se muuttaa eri nuotin juureksi riippumatta järjestyksestä, 
+samalla on muokattava tutki_millainen_sointu-funktiota.
+
+luo funktio joka tutkii jos sointu on inverted
+
+Kirjoita ohjelma lukemaan nelisointuja
+
+laita ohjelma korjaamaan käyttäjän virheet, kuten nuottien syöttö pienellä kirjaimella
+
+Suoritetut:
+luo funktio, mikä tutkii onko nuottiyhdistelmä molli vai duuri
+Luo myöhemmin funktiot diminished ja augmendet soinnuille
